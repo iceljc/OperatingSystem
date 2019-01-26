@@ -1,0 +1,25 @@
+«HREAD: 1
+FUN 2 INVOKED!
+FUN 2 IN ITERATION[0]
+FUN 2: TICK [0]
+FUN 2: TICK [1]
+FUN 2: TICK [2]
+FUN 2: TICK [3]
+FUN 2: TICK [4]
+FUN 2: TICK [5]
+FUN 2: TICK [6]
+FUN 2: TICK [7]
+FUN 2: TICK [8]
+FUN 2: TICK [9]
+THREAD: 2
+FUN 3 INVOKED! <THIS THREAD EXERCISES THE FILE SYSTEM>
+Formatting ..........
+formatting disk
+Mounting ..........
+mounting file system form disk
+FUN 3 IN BURST[0]
+creating file
+In file constructor.
+erase content of file
+file size = 0
+
