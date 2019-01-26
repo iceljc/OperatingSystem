@@ -1,0 +1,25 @@
+FUN 4: TICK [6]
+FUN 4: TICK [7]
+FUN 4: TICK [8]
+FUN 4: TICK [9]
+FUN 4 IN BURST[316]
+FUN 4: TICK [0]
+
+ Round Robin switch...
+Resuming ...
+Yielding ...
+FUN 3: TICK [4]
+FUN 3: TICK [5]
+FUN 3: TICK [6]
+FUN 3: TICK [7]
+FUN 3: TICK [8]
+FUN 3: TICK [9]
+FUN 3 IN BURST[280]
+FUN 3: TICK [0]
+FUN 3: TICK [1]
+FUN 3: TICK [2]
+FUN 3: TICK [3]
+FUN 3: TICK [4]
+FUN 3: TICK [5]
+FUN 3: TICK [6]
+
